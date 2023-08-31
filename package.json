@@ -1,6 +1,6 @@
 {
-  "name": "@blade/utils",
-  "version": "1.0.0",
+  "name": "@ghalib822/utils",
+  "version": "1.0.2",
   "description": "Plucking method to return specific key values from an array of objects",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/BLADE-PORTFOLIO/plucking-method-arrays-object.git"
   },
-  "keywords": ["utilities"],
+  "keywords": [
+    "utilities"
+  ],
   "author": "Mirza Usama Ali Baig",
   "license": "MIT",
   "devDependencies": {
