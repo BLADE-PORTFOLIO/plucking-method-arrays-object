@@ -1,5 +1,5 @@
 {
-  "name": "bladerasengonacademy",
+  "name": "@blade/utils",
   "version": "1.0.0",
   "description": "Plucking method to return specific key values from an array of objects",
   "main": "index.js",
