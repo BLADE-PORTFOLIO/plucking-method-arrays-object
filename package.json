@@ -1,0 +1,19 @@
+{
+  "name": "bladerasengonacademy",
+  "version": "1.0.0",
+  "description": "Plucking method to return specific key values from an array of objects",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc && tsc --build tsconfig.es5.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLADE-PORTFOLIO/plucking-method-arrays-object.git"
+  },
+  "keywords": ["utilities"],
+  "author": "Mirza Usama Ali Baig",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

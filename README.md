@@ -1,0 +1,1 @@
+# Plucking method to return specific key values from an array of objects
